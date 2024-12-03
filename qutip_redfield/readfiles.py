@@ -1,6 +1,5 @@
 import sys
 import numpy as np
-#TODO, move read of parameters into this file
 
 def read_g(fname ):
    """"
